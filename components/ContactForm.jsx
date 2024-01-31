@@ -6,7 +6,7 @@ const ContactForm = () => {
     <Form>
       {/* Campos del formulario (nombre, correo, mensaje, etc.) */}
       <Button variant="primary" type="submit">
-        Enviar
+        Send
       </Button>
     </Form>
   );
